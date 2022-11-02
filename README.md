@@ -1,4 +1,4 @@
-# Curso 2805 - Fundamentos do SQL Server
+# Curso Fundamentos do SQL Server - Balta.io
 
 ## Instalação
 Para realizar este curso você precisará do Docker e SQL Server instalados na sua máquina.
